@@ -20,10 +20,6 @@ go get -u github.com/godzillaframework/godzilla
 
 - basic api
 ```
-package main
-
-import "github.com/godzillaframework/godzilla"
-
 func main() {
 	gz := godzilla.New()
 
