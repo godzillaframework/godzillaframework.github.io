@@ -19,7 +19,7 @@ go get -u github.com/godzillaframework/godzilla
 ## Examples
 
 - basic api
-```golang
+```
 package main
 
 import "github.com/godzillaframework/godzilla"
